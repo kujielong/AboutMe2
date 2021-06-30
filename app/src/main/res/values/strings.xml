@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AboutMe</string>
+    <string name="app_name">AboutMe2</string>
     <string name="MyName">Ku Jie Long</string>
     <string name="bio">Hi, my name is Jie Long.
                         \n\nI love fish.
@@ -11,5 +11,7 @@
                         \n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
                         \n\nI\'ll be happy to teach you how to make your own aquarium.
                         \nYou should ask someone else about fishing, though.\n\n</string>
-    <string name="imagestar">imageStar</string>
+    <string name="imageStar">imageStar</string>
+    <string name="what_is_your_nickname">What is your Nickname</string>
+    <string name="done">Done</string>
 </resources>
